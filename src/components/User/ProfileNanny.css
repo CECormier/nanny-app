@@ -1,0 +1,19 @@
+.Nanny
+    {
+        margin: 1em 2em 2em;
+        text-align: center;
+        width: 100%;
+    }
+.Nanny div{
+    border-bottom: 0.01rem solid white;
+}
+#infoBox, #contactInformation, #Credentials{
+    display:flex;
+    text-align: center;
+    width: 100%;
+    justify-content: center;
+  
+}
+#infoBox div, #contactInformation div, #Credentials div{
+    margin: 0 1em;
+}

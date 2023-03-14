@@ -1,0 +1,146 @@
+{
+    "nannies": [
+        {
+            "id": 1,
+            "full_name": "Carmella Gallella",
+            "testimonials": "4 stars",
+            "home_address": "08 Glendale Lane",
+            "email": "cgagg0@mail.ru",
+            "password": "kDndGM9ZpY6",
+            "phone_number": "463-931-7437",
+            "specialities": "Infants",
+            "hourly_rate": 45,
+            "certificates": "Nullam.xls",
+            "resume": "NisiEu.avi",
+            "references": "MetusArcu.avi"
+          }, {
+            "id": 2,
+            "full_name": "Ronda Rowbottam",
+            "testimonials": "5 stars",
+            "home_address": "18525 Nelson Pass",
+            "email": "rrowbottam1@statcounter.com",
+            "password": "kDndGM9ZpY6",
+            "phone_number": "412-128-2325",
+            "specialities": "Special Needs",
+            "hourly_rate": 50,
+            "certificates": "Elementum.tiff",
+            "resume": "Nec.mp3",
+            "references": "ConsequatMorbi.avi"
+          }, {
+            "id": 3,
+            "full_name": "Melesa Daulby",
+            "testimonials": "3 stars",
+            "home_address": "36 American Ash Center",
+            "email": "mdaulby2@vistaprint.com",
+            "password": "kDndGM9ZpY6",
+            "phone_number": "291-435-9714",
+            "specialities": "School Age",
+            "hourly_rate": 43,
+            "certificates": "Vel.mp3",
+            "resume": "Felis.mov",
+            "references": "Placerat.jpeg"
+          }, {
+            "id": 4,
+            "full_name": "Bail Aspital",
+            "testimonials": "5 stars",
+            "home_address": "45 Eggendart Plaza",
+            "email": "baspital3@ucoz.com",
+            "password": "kDndGM9ZpY6",
+            "phone_number": "507-209-0229",
+            "specialities": "Tutoring",
+            "hourly_rate": 49,
+            "certificates": "Cras.png",
+            "resume": "Orci.tiff",
+            "references": "NonMiInteger.xls"
+          }, {
+            "id": 5,
+            "full_name": "Conchita Wolfendale",
+            "testimonials": "4 stars",
+            "home_address": "58 Sommers Trail",
+            "email": "cwolfendale4@jalbum.net",
+            "password": "kDndGM9ZpY6",
+            "phone_number": "375-980-1289",
+            "specialities": "Toddler",
+            "hourly_rate": 38,
+            "certificates": "EtUltrices.png",
+            "resume": "ProinEuMi.avi",
+            "references": "Sed.mov"
+          }
+    ],
+    "jobs": [
+        {
+            "id": 1,
+            "parent_id": 4,
+            "child": 2,
+            "location": "2136 Anthes Park",
+            "contact": "855-849-1256",
+            "description": "implement integrated metrics"
+          }, {
+            "id": 2,
+            "parent_id": 4,
+            "child": 5,
+            "location": "57 Leroy Avenue",
+            "contact": "690-440-2372",
+            "description": "utilize customized methodologies"
+          }, {
+            "id": 3,
+            "parent_id": 5,
+            "child": 3,
+            "location": "40 Nobel Parkway",
+            "contact": "425-779-1670",
+            "description": "transition dynamic synergies"
+          }, {
+            "id": 4,
+            "parent_id": 3,
+            "child": 2,
+            "location": "85 Hauk Street",
+            "contact": "501-117-1164",
+            "description": "incentivize customized metrics"
+          }, {
+            "id": 5,
+            "parent_id": 4,
+            "child": 2,
+            "location": "06136 Garrison Lane",
+            "contact": "424-451-9711",
+            "description": "facilitate wireless models"
+          }
+    ],
+    "parents": [
+        {
+            "id": 6,
+            "full_name": "Orlando Ellett",
+            "address": "01357 5th Center",
+            "contact": "427-183-6036",
+            "email": "oellett0@blogtalkradio.com",
+            "password": "kDndGM9ZpY6"
+          }, {
+            "id": 7,
+            "full_name": "Eziechiele Yurchenko",
+            "address": "8765 Brown Hill",
+            "contact": "664-352-9298",
+            "email": "eyurchenko1@tripadvisor.com",
+            "password": "hGkWHmEErBUT"
+          }, {
+            "id": 8,
+            "full_name": "Chrissy Brixham",
+            "address": "272 Anhalt Road",
+            "contact": "711-921-2265",
+            "email": "cbrixham2@mac.com",
+            "password": "ZuZjmgNqCTIS"
+          }, {
+            "id": 9,
+            "full_name": "Dinah St Angel",
+            "address": "5968 Mitchell Place",
+            "contact": "786-617-5445",
+            "email": "dst3@ucoz.ru",
+            "password": "rHB6hO1O"
+          }, {
+            "id": 10,
+            "full_name": "Kliment Collcutt",
+            "address": "6844 Anniversary Center",
+            "contact": "537-295-2273",
+            "email": "kcollcutt4@wordpress.com",
+            "password": "qzRa6vJ2"
+          }
+    ]
+}

@@ -1,0 +1,117 @@
+.navbar
+{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FF758F;
+
+}
+
+
+.navlink
+{
+    margin-left:8px;
+    margin-right:8px;
+}
+
+a
+{
+    color:#800F2F;  
+}
+
+
+.loginform
+{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color:#800F2F;
+    font-family: 'Bebas Neue', cursive;
+
+    width:40vw;
+    height: 150px;
+    margin:auto;
+    margin-top:30px;
+    padding: 20px;
+
+    background-color: #FF8FA3;
+    border-radius: 30px;
+    box-shadow: 10px 10px 5px #FF4D6D;
+}
+
+.logo
+{
+    height:50px;
+    
+}
+
+#header
+{
+    display:flex;
+    justify-content: space-around;
+    background-color: #FF4D6D;
+    font-size:50pt;
+    font-family: 'Poppins', sans-serif;
+    color: #800F2F;
+}
+
+
+.authnav
+{
+    font-size:15pt;    
+    font-family: 'Bebas Neue', cursive;
+}
+
+
+.homepage
+{
+    /* background:url("/public/banner3.webp"); */
+    height:80vh;
+
+    font-size:20pt;    
+    font-family: 'Poppins', sans-serif;
+}
+
+.homepage p
+{
+    margin-left:10vw;
+    padding-top:20px;
+    width:40vw;
+}
+
+#signInDetails
+{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+#signInDetails p
+{
+ margin-right: 1em;
+ margin-bottom: 0;
+}
+#signInDetails button
+{
+
+    padding: 5px 5px;
+    font-size: 16px;
+    cursor: pointer;
+    display: block;
+    margin: 0.5em 0.5em;
+    background: linear-gradient(to right, #ff105f, #ffad06);
+    border: 0;
+    outline: none;
+}
+.fullName
+{
+    text-align: center;
+    margin-bottom: 2em;
+
+}
+
+.Parents
+{
+    margin-top: 2.5em;
+}

@@ -1,0 +1,14 @@
+#Home
+{
+    margin: 1em 2em 2em;
+    text-align: center;
+}
+.joblist
+{
+    list-style-type: none;
+}
+
+li
+{
+    border-bottom: 0.01rem solid white;
+}
