@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding:0;
+    background: url(./Photos/banner3.webp);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+.nanny {
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(banner3.webp);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+}
+
+.form-box {
+    width: 380px;
+    height: 480px;
+    margin: 6% auto;
+    background: #fff;
+    top:50%;
+    left:50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 5px;
+    overflow: hidden;
+    display: flex;
+}
+#form_Title
+{
+    font-size: 2em;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#btn {
+    /* top: 0;
+    left: 0;
+    position: absolute; */
+    width: 110px;
+    height: 100%;
+    background: linear-gradient(to right, #ff105f, #ffad06);
+    border-radius: 30px;
+    transition: .5s;
+}
+
+.input-group {
+    top: 180px;
+    position: absolute;
+    width: 280px;
+    transition: .5s;
+}
+
+.input-field {
+    width: 100%;
+    padding: 10px 0;
+    margin: 5px 0;
+    border-left: 0;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 1px solid #999;
+    outline: none;
+    background: transparent;
+}
+
+.submit-btn {
+    width: 100%;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    display: block;
+    margin: 1em auto;
+    background: linear-gradient(to right, #ff105f, #ffad06);
+    border: 0;
+    outline: none;
+    /* border-radius: 30px; */
+}
+
+
+#login{
+    left: 50px;
+}
+#register{
+    left: 450px;
+}
+.nanny_icon
+{
+    width: 100px;
+    height: 100px;
+    margin: 1.5em auto;
+    border-radius: 50%;
+    top:135px;
+    left: calc(50% - 50px);
+}

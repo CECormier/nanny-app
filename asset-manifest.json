@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nanny-app/static/css/main.698edd00.css",
+    "main.js": "/nanny-app/static/js/main.ddf43898.js",
+    "static/js/787.6cf5c74a.chunk.js": "/nanny-app/static/js/787.6cf5c74a.chunk.js",
+    "index.html": "/nanny-app/index.html",
+    "main.698edd00.css.map": "/nanny-app/static/css/main.698edd00.css.map",
+    "main.ddf43898.js.map": "/nanny-app/static/js/main.ddf43898.js.map",
+    "787.6cf5c74a.chunk.js.map": "/nanny-app/static/js/787.6cf5c74a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.698edd00.css",
+    "static/js/main.ddf43898.js"
+  ]
+}
